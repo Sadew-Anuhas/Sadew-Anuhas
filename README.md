@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadew-anuhas/](https://github.com/sadew-anuhas/)
 
-- 📝 I regularly write articles on [Best design practices for websites.](Best design practices for websites.)
-
 - 💬 Ask me about **Web design best practices.**
 
 - 📫 How to reach me **https://sadew.link/**
