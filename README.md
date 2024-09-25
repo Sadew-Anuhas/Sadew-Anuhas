@@ -1,38 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sadew Anuhas</h1>
-<h3 align="center">A passionate web developer from Sri Lanka</h3>
+## 👋 Hi, I'm [Sadew Anuhas](https://github.com/Sadew-Anuhas) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadew-anuhas&label=Profile%20views&color=0e75b6&style=flat" alt="sadew-anuhas" /> </p>
 
-- 🔭 I’m currently working on **Enhancing user experience through UI/UX design.**
+- 🛠 Crafting cool stuff with tech!
+- 🌱 Exploring & Learning: **Everything.**
+- 🔭 Open to collaborate on **Open Source** projects.
+- 💬 Ask me about **anything, I am happy to help.**
+- 👨‍💻 Some of my projects are available at *[sadew.link](https://sadew.link)*
+- 📫 Reach me at **hello@sadew.link**
+- ⚡ Fun fact: I'm **still a student**, but always coding!
 
-- 🌱 I’m currently learning **JavaScript frameworks (React, Vue.js).**
+## 🛠️ Languages and tools
+### Programming languages
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/c-sharp-logo.png"/></a>
+<a href="https://www.swift.org/"><img src="https://img.icons8.com/color/48/swift.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/null/golang.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/node-js.png"/></a>
+<a href="#"><img src="https://img.icons8.com/offices/48/null/php-logo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/typescript--v2.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/kotlin.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/flutter.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/dart.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/ruby-programming-language.png"/></a>
 
-- 👯 I’m looking to collaborate on **Creating innovative and modern website layouts.**
+### Web development
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
+<a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/vue-js.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/angularjs.png"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/null/bootstrap.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>
 
-- 🤝 I’m looking for help with **Learning advanced frameworks like React and Angular.**
+### Databases
+<a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/null/postgreesql.png"/></a>
+<a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/></a>
+<a href="https://www.mysql.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/></a>
+<a href="https://redis.io" target="_blank"><img src="https://img.icons8.com/color/48/null/redis.png"/></a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sadew-anuhas/](https://github.com/sadew-anuhas/)
+### Operating systems
+<a href="https://www.microsoft.com" target="_blank"><img src="https://img.icons8.com/fluency/48/null/windows-10.png"/></a>
+<a href="https://www.apple.com" target="_blank"><img src="https://img.icons8.com/color/48/mac-logo.png"/></a>
+<a href="https://ubuntu.com" target="_blank"><img src="https://img.icons8.com/color/48/ubuntu--v1.png"/></a>
+<a href="https://android.google.com" target="_blank"><img src="https://img.icons8.com/fluency/48/android-os.png" /></a>
+<a href="https://www.apple.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/mac-os.png" /></a>
+<a href="https://archlinux.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/></a>
 
-- 💬 Ask me about **Web design best practices.**
+## 📊 Stats
+<img src="/github-metrics.svg" alt="Metrics">
 
-- 📫 How to reach me **https://sadew.link/**
+## 🤝 Connect with me
+<a href="https://telegram.me/SadewGreat" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
+<a href="https://www.instagram.com/._sadewanuhas/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"></a>
+<a href="https://youtube.com/@sadewanuhas." target="_blank"><img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="Youtube"></a>
 
-- 📄 Know about my experiences [Over 5 years of experience as a graphic and web designer.](Over 5 years of experience as a graphic and web designer.)
-
-- ⚡ Fun fact **I love solving design challenges like puzzles!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sadew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadew" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadewanuhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadewanuhas" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sadew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sadew" height="30" width="40" /></a>
-<a href="https://fb.com/sadewanup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadewanup" height="30" width="40" /></a>
-<a href="https://instagram.com/_.sadewanuhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sadewanuhas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sadewanuhas." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadewanuhas." height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sadewanuhas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sadewanuhas" /></a></p><br><br>
+## 💰 Support Me
+<a href="https://ko-fi.com/sadewanuhas" target="_blank" alt="KoFi"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
