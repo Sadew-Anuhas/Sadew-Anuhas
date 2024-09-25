@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Sadew Anuhas](https://github.com/Sadew-Anuhas)</h1>
+## 👋 Hi, I'm [Sadew Anuhas](https://github.com/Sadew-Anuhas) 
 
 - 🛠 Crafting cool stuff with tech!
 - 🌱 Exploring & Learning: **Everything.**
